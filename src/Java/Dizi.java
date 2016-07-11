@@ -15,6 +15,7 @@ public class Dizi {
 				System.out.println(a[i]);
 
 			}
+		//Ornekdd
 		
 		System.out.println("tek sayi adedi=" + c);
 		System.out.println("tek sayilarin toplami=" + sum);
