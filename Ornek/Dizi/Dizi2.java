@@ -14,5 +14,6 @@ public class Dizi2 {
 		avg = sum / size;
 		System.out.println("Dizinin toplami " + sum + "" + "" + "ortalamasi"
 				+ avg);
+		System.out.println();
 	}
 }
