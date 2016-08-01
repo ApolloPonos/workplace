@@ -1,4 +1,4 @@
-package Kurs;
+package edu.java.course.intro;
 
 public class Kurs1 {
 

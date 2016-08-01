@@ -1,4 +1,4 @@
-package Kurs;
+package edu.java.course.intro;
 
 import java.util.Scanner;
 
