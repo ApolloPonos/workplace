@@ -1,3 +1,4 @@
+//DIZIDE KI HER SAYIDAN KAC TANE OLDUGUNU EKRANA YAZDIRAN PROGRAM
 package edu.java.course.intro;
 
 import java.lang.ArrayIndexOutOfBoundsException;
