@@ -1,4 +1,4 @@
-package edu.java.course.intro;
+package Kurs;
 
 public class Kurs3 {
 
@@ -11,13 +11,13 @@ public class Kurs3 {
 		for (i = 0; i < cow; i++) {
 
 			m[i][i] = 1;
-			{
+			
 				m[i][cal - 1 - i] = 1;
 
-				{
+		
 					
-					{
-
+					
+						
 						m[i][cal / 2] = 1;
 
 						for (i = 0; i < cow; i++)
@@ -30,6 +30,7 @@ public class Kurs3 {
 
 						}
 					}
-				}
-				}
+				
+			
+				
 			

@@ -1,6 +1,6 @@
 //DIZILERIN ELEMANLARINI 1 KERE YAZDIRAN PROGRAM A DIZINDE 4 YAZILDIYSA B DIZISINDE KI 4 YAZILMAYACAK
 
-package edu.java.course.intro;
+package Kurs;
 
 public class Kurs17 {
 

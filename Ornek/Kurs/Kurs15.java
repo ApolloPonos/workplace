@@ -1,5 +1,5 @@
 //GIRILEN SAYININ DIZI DE KAC TANE OLDUGUNU YAZDIRAN PROGRAM
-package edu.java.course.intro;
+package Kurs;
 
 public class Kurs15 {
 

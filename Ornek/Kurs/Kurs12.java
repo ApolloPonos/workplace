@@ -1,6 +1,6 @@
 //Girilen sayiyi dizide sirasina yerlestiren program
 
-package edu.java.course.intro;
+package Kurs;
 
 import java.util.Scanner;
 

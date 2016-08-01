@@ -1,5 +1,5 @@
 //GIRILEN SAYININ DIZIDE OLUP OLMADIGINI KONTROL EDEN PROGRAM
-package edu.java.course.intro;
+package Kurs;
 
 public class Kurs16 {
 
