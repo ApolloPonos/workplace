@@ -2,25 +2,21 @@ package edu.java.puzzle;
 
 public class Yapicilar {
 
-	void metod1() 
-	{
+	void metod1() {
 
 		System.out.println("Parametre almayan metod cagirildi");
 	}
 
-	void metod2(int sayi1)
-	{
+	void metod2(int sayi1) {
 		System.out.println("Parametre alan metod cagirildi");
 
 	}
 
-	public YapicilarOverloading()
-	{
+	public YapicilarOverloading() {
 		metod1();
 	}
 
-	public  YapicilarOverloading(int sayi1) 
-	{
+	public YapicilarOverloading(int sayi1) {
 		metod2(sayi1);
 	}
 
