@@ -50,7 +50,7 @@ public class Oyun3 {
 
 			if (AcilanKutular[i] != 0) {
 				AcilanKutuToplami += ParaKutulari[i];
-				// Mesaj("Toplanan " + (i+1) + ". Kutu : " + ParaKutulari[i]);
+
 				AcilanKutuSayisi++;
 			} else {
 				AcilmayanKutuToplami += ParaKutulari[i];
@@ -103,8 +103,6 @@ public class Oyun3 {
 			Mesaj("Açmak İçin Kutu numarası seçiniz: ");
 			int SecilenKutu = new Integer(Klavye.readLine());
 
-			// Mesaj("Kutu" + SecilenKutu + " içeriği :" +
-			// ParaKutulari[SecilenKutu-1]);
 			if (SecilenKutu - 1 == YarismaciKutusu) {
 				Mesaj("Kendi kutunuzu açamazsınız");
 				continue;
