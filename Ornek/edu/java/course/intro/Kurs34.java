@@ -18,18 +18,17 @@ public class Kurs34 {
 
 		for (i = 0; i < size; i++) {
 			Random r = new Random();
-		n = r.nextInt(2);
-		
-		   if
-		   (n%2)
-				countAdd++;
-		   
-			else
-				(n%1)
-				countEven++;
-		System.out.println(countAdd/size);
-		System.out.println(countEven/size);
-		}
+			n = r.nextInt(2);
 
+			if (n % 2 == 0)
+				countAdd++;
+
+			else {
+				countEven++;
+				System.out.println(countAdd / size);
+				System.out.println(countEven / size);
+			}
+
+		}
 	}
 }
