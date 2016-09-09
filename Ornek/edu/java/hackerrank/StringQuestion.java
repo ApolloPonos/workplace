@@ -1,6 +1,6 @@
 package edu.java.hackerrank;
 
-public class stringQuestion {
+public class StringQuestion {
 
 
 	    static boolean isAnagram(String a, String b) {

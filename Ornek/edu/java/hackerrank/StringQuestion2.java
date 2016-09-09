@@ -3,7 +3,7 @@ package edu.java.hackerrank;
 import java.io.*;
 import java.util.*;
 
-public class stringQuestion2 {
+public class StringQuestion2 {
 
 	public static void main(String[] args) {
 
