@@ -21,8 +21,8 @@ public class Chapter1_3 {
 		} else {
 			System.out.println("x isn't 10");
 		}
-		if ((x < 3) & (name.equals("Dirk")))
-			;
+		if ((x < 3) && (name.equals("Dirk")))
+
 		{
 			System.out.println("Gently");
 		}
