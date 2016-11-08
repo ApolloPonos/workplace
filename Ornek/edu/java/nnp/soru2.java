@@ -1,14 +1,15 @@
-//GIRILEN IKI SAYININ ORTALAMASINI BULAN PROGRAM
+//GIRILEN UC SAYININ ORTALAMASINI BULAN PROGRAM
 package edu.java.nnp;
 
 public class soru2 {
 	public static void main(String[] args) {
-		int a,b,c;
-		a=5;
-		b=17;
-		c=a+b;
-		System.out.println("IKI SAYININ ORTALAMASI:"+c/2+"'"+"DIR");
-		
-	
+		int a, b, c;
+		double d;
+		a = 5;
+		b = 15;
+		c = 27;
+		d = a + b + c;
+		System.out.println("IKI SAYININ ORTALAMASI:" + d / 3 + "'" + "DIR");
+
 	}
 }

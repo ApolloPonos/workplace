@@ -6,7 +6,7 @@ public class Metodlar6 {
 
 	public static void main(String[] args) {
 		int x = hesapla(7, 2);
-		System.out.println("Buyu olan sayi:" + x);
+		System.out.println("Buyuk olan sayi:" + x);
 	}
 
 	static int hesapla(int a, int b) {

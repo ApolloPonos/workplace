@@ -11,7 +11,7 @@ public class soru17 {
 			for (j = 0; j < tablo.length; j++)
 				tablo[i][j] = "X";
 		
-			System.out.println(tablo);
+			System.out.println(tablo[i][j]);
 		}
 
 	}
