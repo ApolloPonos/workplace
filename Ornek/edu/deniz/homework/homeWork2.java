@@ -10,7 +10,7 @@ public class homeWork2 {
 		if (mc == "kapali" && burger == "kapali") {
 			System.out.println("Arbys e gidelim");
 		} else {
-			System.out.println("Burger veya McDonalds a gidicem");
+			System.out.println("Burger veya McDonalds a gidecegim");
 		}
 	}
 }
